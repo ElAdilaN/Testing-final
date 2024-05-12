@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage lines-valid="55" lines-covered="55" line-rate="1" branches-valid="39" branches-covered="39" branch-rate="1" timestamp="1715537532304" complexity="0" version="0.1">
+<coverage lines-valid="55" lines-covered="55" line-rate="1" branches-valid="39" branches-covered="39" branch-rate="1" timestamp="1715540644022" complexity="0" version="0.1">
   <sources>
     <source>C:\Users\noureddin\Desktop\edp-calculadora</source>
   </sources>
